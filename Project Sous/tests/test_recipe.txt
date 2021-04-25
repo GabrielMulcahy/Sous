@@ -1,0 +1,19 @@
+Title: Test Recipe
+Time: 2
+Calories: 500
+Serves: 1
+
+**INGREDIENTS START**
+bread - 1 slice
+butter - 1 tbsp
+jam - tbsp
+**INGREDIENTS END**
+
+**TAGS START**
+crunchy
+**TAGS END**
+
+**METHOD START**
+Buy a bag of crisps
+Open it
+Enjoy!

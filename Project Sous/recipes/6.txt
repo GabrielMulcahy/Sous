@@ -1,0 +1,20 @@
+Title: cereal
+Time: 1
+Calories: 150
+Serves: 1
+
+**INGREDIENTS START**
+cereal - 100 g
+milk - 100 ml
+**INGREDIENTS END**
+
+**TAGS START**
+cold
+sweet
+crunchy
+**TAGS END**
+
+**METHOD START**
+Pour cereal into a bowl
+Pour milk into the same bowl
+Enjoy!

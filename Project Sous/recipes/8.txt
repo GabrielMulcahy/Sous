@@ -1,0 +1,19 @@
+Title: Chocolate Bar
+Time: 1
+Calories: 1000
+Serves: 2
+
+**INGREDIENTS START**
+chocolate - 100 g
+**INGREDIENTS END**
+
+**TAGS START**
+sweet
+naughty
+**TAGS END**
+
+**METHOD START**
+Buy some chocolate
+Unwrap it
+share it
+Enjoy!
